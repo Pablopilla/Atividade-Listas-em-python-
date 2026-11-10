@@ -52,7 +52,3 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma *Issu
 - Implementação de um menu interativo de opções.
 - Persistência de dados em arquivos JSON ou TXT.
 - Interface gráfica ou CLI mais robusta.
-
----
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) 😊
-```
