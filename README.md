@@ -1,9 +1,6 @@
 ```markdown
 # 📦 Sistema Simples de Gerenciamento de Estoque em Python
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
-
 Este é um projeto simples e prático desenvolvido em Python que simula um controle básico de estoque. O fluxo foi pensado utilizando o conceito de fila, onde novos itens são adicionados ao final da lista e o item mais antigo (primeiro da lista) é removido quando uma operação de saída é executada.
 
 ## 🚀 Funcionalidades
